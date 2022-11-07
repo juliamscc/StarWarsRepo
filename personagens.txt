@@ -1,3 +1,6 @@
 Obi-Wan Kenobi
 Master Yoda
 Han Solo
+Luke Skywalker
+Leia Organa
+C-3PO
