@@ -3,3 +3,6 @@ Master Yoda
 Han Solo
 Chewbacca
 Anakin Skywalker
+Luke Skywalker
+Leia Organa
+C-3PO

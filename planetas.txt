@@ -1,3 +1,6 @@
 Alderaan
 Coruscant
 Endor
+Dantooine
+Endor
+Yavin
